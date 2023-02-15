@@ -38,6 +38,9 @@ Accurate comparison: Draftable is known for its highly accurate comparison techn
 ### Limitations
 Some types of documents can’t be compared and may require users to convert or reformat their documents to use the API.
 
- 
+ ![image](https://user-images.githubusercontent.com/65166401/219022853-3b4257aa-1d12-46ce-b5df-9cf45d253c45.png)
+![image](https://user-images.githubusercontent.com/65166401/219022911-8fcdaf9c-9aaf-4812-9e93-7fb5efbd61f6.png)
+![image](https://user-images.githubusercontent.com/65166401/219022962-3b23d4b6-18f6-4f3a-9b2b-2d41347685a2.png)
+
  
  
